@@ -12,3 +12,4 @@
 | --- | --- |
 | [assets/codeit.jpg](assets/codeit.jpg) | Primary 컬러 배경의 코드잇 심볼 |
 | [assets/codeit-wordmark.png](assets/codeit-wordmark.png) | 투명 배경의 코드잇 워드마크 |
+| [assets/codeit-wordmark-small.png](assets/codeit-wordmark-small.png) | 투명 배경의 코드잇 워드마크 (small) |
